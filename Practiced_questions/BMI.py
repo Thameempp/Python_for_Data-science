@@ -10,11 +10,10 @@ exact_bmi=bmi_calc()
 bmi=round(exact_bmi,1)
 print(bmi)
 
-<<<<<<< HEAD
+
 # Your health based on BMI
-=======
+
 # overall health based on BMI
->>>>>>> 0f4dc86 (retrack)
 if bmi < 18.5:
     print("classified in 'under weight'")
     print("Health risk is 'minimal'")
